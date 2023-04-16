@@ -36,3 +36,11 @@
         > npm install express body-parser connect-multiparty jwt-simple bcrypt moment mongoose
         2. Modifikasi .gitignore file
         3. Commit dan push file ke Github
+
+
+#### 3.3 Menginstal beberapa paket/modules devDependencies (nodemon)
+
+        Aktivitas:
+
+        1. Menginstal modules
+        > npm install --save-dev nodemon
