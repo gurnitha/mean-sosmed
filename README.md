@@ -5,7 +5,9 @@
 
 ## 1. Tentang proyek
 
+
 ## 2. Setup
+
 
 ## 3. Membuat backend
 
@@ -13,6 +15,7 @@
 
         1. modified:   README.md
         2. push file ke Github
+
 
 #### 3.1 Membuat package.json file
 
@@ -23,3 +26,13 @@
         > npm init --yes
         3. modified:   README.md
         4. push file ke Github
+
+
+#### 3.2 Menginstal beberapa paket/modules dependencies
+
+        Aktivitas:
+
+        1. Menginstal modules
+        > npm install express body-parser connect-multiparty jwt-simple bcrypt moment mongoose
+        2. Modifikasi .gitignore file
+        3. Commit dan push file ke Github
