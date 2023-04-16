@@ -44,3 +44,10 @@
 
         1. Menginstal modules
         > npm install --save-dev nodemon
+
+
+#### 3.4 Modifikasi file package.json
+
+        Aktivitas:
+
+        1. Modifikasi file package.json
