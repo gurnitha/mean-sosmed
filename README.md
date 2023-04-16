@@ -51,3 +51,11 @@
         Aktivitas:
 
         1. Modifikasi file package.json
+
+
+#### 3.5 Membuat folder
+
+        Aktivitas:
+
+        1. Membuat folder controllers, helpers, middlewares, models, routes, dan uploads
+        > mkdir controllers helpers middlewares models routes uploads
