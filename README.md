@@ -352,3 +352,21 @@
         NEXT:
 
         Mengisi html template pada nav/nav.component.html
+
+
+#### 5.4 Mengisi html template pada nav/nav.component.html
+
+        Aktivitas:
+
+        1. Mengisi nav template
+        modified:   frontend/src/app/components/nav/nav.component.html
+
+        2. Load nav
+        modified:   frontend/src/app/components/home/home.component.html
+
+        Test: :)
+
+        NEXT:
+
+        Mengisi main content pada home component
+        
