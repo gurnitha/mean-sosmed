@@ -290,3 +290,10 @@
         NEXT:
 
         Mengisi html template pada home component
+
+
+## 5. Templatin in Angular
+
+        Aktivitas:
+
+        1. modified:   README.md
