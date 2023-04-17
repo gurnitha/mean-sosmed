@@ -236,3 +236,19 @@
         NEXT:
 
         Include routing pada app.module.ts
+
+
+#### 4.4 Sertakan routing pada app.module
+
+        Aktivitas:
+
+        1. Import routing to app.module.ts
+        modified:   frontend/src/app/app.module.ts
+
+        2. modified:   README.md
+
+        Test: no error
+
+        NEXT:
+
+        Membuat home component
