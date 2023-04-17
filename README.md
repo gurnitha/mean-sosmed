@@ -331,3 +331,24 @@
 
         Test: :)
 
+        NEXT:
+
+        Membuat component nav
+
+
+#### 5.3 Membuat component nav
+
+        Aktivitas:
+
+        1. Membuat nav component
+        >  ng g c components/nav
+
+        modified:   frontend/src/app/app.module.ts
+        new file:   frontend/src/app/components/nav/nav.component.css
+        new file:   frontend/src/app/components/nav/nav.component.html
+        new file:   frontend/src/app/components/nav/nav.component.spec.ts
+        new file:   frontend/src/app/components/nav/nav.component.ts
+
+        NEXT:
+
+        Mengisi html template pada nav/nav.component.html
