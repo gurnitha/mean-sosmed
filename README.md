@@ -318,3 +318,16 @@
         NEXT:
 
         Menambahkan html template
+
+
+#### 5.2 Mengisi css dan scripts pada src/index.html
+
+        Aktivitas:
+
+        1. Mengisi css dan scripts
+        modified:   frontend/src/ndex.html       
+        
+        2. modified:   README.md
+
+        Test: :)
+
