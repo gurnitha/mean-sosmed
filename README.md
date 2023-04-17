@@ -203,3 +203,16 @@
         
         DONE :)
 
+
+#### 4.2 Membuat HALLO WORLD!
+
+        Aktivitas:
+
+        1. Menghapus semua isi file app.component.html dan menggantinya dengan <h1>HELLO WORLD!</h1>
+
+        modified:   frontend/src/app/app.component.html
+
+        2. modified:   README.md
+
+
+        DONE :)
