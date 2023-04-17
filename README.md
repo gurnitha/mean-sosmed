@@ -145,4 +145,14 @@
         Kita akan mulai membuat frontend.
 
 
+## 4. Membuat Fontend 
+
+        Aktivitas:
+
+        1. Modified README.md file
+
+        NEXT:
+
+        Membuat frontend dengan Angular
+
 
