@@ -297,3 +297,24 @@
         Aktivitas:
 
         1. modified:   README.md
+
+
+#### 5.1 Mengisi assets files
+
+        Aktivitas:
+
+        1. Menambahkan assets file pada folder assets
+
+        modified:   .gitignore
+        new file:   frontend/src/assets/css/style.css
+        new file:   frontend/src/assets/images/avatar/01.jpg
+        new file:   frontend/src/assets/images/avatar/02.jpg
+        ...
+        new file:   frontend/src/assets/vendor/plyr/plyr.js
+
+        2. modified:   .gitignore
+        3. modified:   README.md
+
+        NEXT:
+
+        Menambahkan html template
