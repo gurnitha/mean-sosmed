@@ -156,3 +156,50 @@
         Membuat frontend dengan Angular
 
 
+#### 4.1 Uninstal, instal Angular CLI dan membuat frontend
+
+        Aktivitas:
+
+        1. Uninstall Angular CLI
+        >  npm uninstall -g @angular/cli  
+        >  npm cache clean --force
+        >  npm cache verify  
+
+        2. Install Angular CLI
+        >  npm install -g @angular/cli  
+        >  ng version
+
+        3. Create frontend
+        >  ng new frontend
+
+        4. Jalankan frontend
+        >  cd frontend
+        >  ng serve
+        >  buka browser:  http://localhost:4200/
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   frontend/.editorconfig
+        new file:   frontend/.vscode/extensions.json
+        new file:   frontend/.vscode/launch.json
+        new file:   frontend/.vscode/tasks.json
+        new file:   frontend/angular.json
+        new file:   frontend/package-lock.json
+        new file:   frontend/package.json
+        new file:   frontend/src/app/app-routing.module.ts
+        new file:   frontend/src/app/app.component.css
+        new file:   frontend/src/app/app.component.html
+        new file:   frontend/src/app/app.component.spec.ts
+        new file:   frontend/src/app/app.component.ts
+        new file:   frontend/src/app/app.module.ts
+        new file:   frontend/src/assets/.gitkeep
+        new file:   frontend/src/favicon.ico
+        new file:   frontend/src/index.html
+        new file:   frontend/src/main.ts
+        new file:   frontend/src/styles.css
+        new file:   frontend/tsconfig.app.json
+        new file:   frontend/tsconfig.json
+        new file:   frontend/tsconfig.spec.json
+        
+        DONE :)
+
