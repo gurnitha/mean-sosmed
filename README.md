@@ -271,3 +271,22 @@
         NEXT:
 
         Membuat route untuk home component
+
+
+#### 4.6 Membuat route untuk home component
+
+        Aktivitas:
+
+        1. Membuat home route pada app.routing 
+        modified:   frontend/src/app/app.routing.ts
+
+        2. Menyertakan home component pada app.component
+        modified:   frontend/src/app/app.component.html
+
+        3. modified:   README.md
+
+        Test: berhasil
+
+        NEXT:
+
+        Mengisi html template pada home component
