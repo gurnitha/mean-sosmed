@@ -252,3 +252,22 @@
         NEXT:
 
         Membuat home component
+
+
+#### 4.5 Membuat home component
+
+        Aktivitas:
+
+        1. Membuat home component
+        >  ng g c components/home
+
+        modified:   README.md
+        modified:   frontend/src/app/app.module.ts
+        new file:   frontend/src/app/components/home/home.component.css
+        new file:   frontend/src/app/components/home/home.component.html
+        new file:   frontend/src/app/components/home/home.component.spec.ts
+        new file:   frontend/src/app/components/home/home.component.ts
+
+        NEXT:
+
+        Membuat route untuk home component
