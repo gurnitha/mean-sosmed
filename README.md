@@ -216,3 +216,23 @@
 
 
         DONE :)
+
+
+#### 4.3 Membuat route
+
+        Aktivitas:
+
+        1. Membuat file baru
+
+        new file:   frontend/src/app/app.routing.ts
+        : frontend/src/app/app.routing.ts
+
+        2. Membuat route pada app.routing.ts
+
+        Test: no error
+
+        3. modified:   README.md
+
+        NEXT:
+
+        Include routing pada app.module.ts
