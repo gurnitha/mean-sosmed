@@ -369,4 +369,17 @@
         NEXT:
 
         Mengisi main content pada home component
-        
+
+
+#### 5.5 Mengisi main content pada home component
+
+        Aktivitas:
+
+        1. Mengisi main template
+        modified:   frontend/src/app/components/home/home.component.html
+
+        Test :)
+
+        NEXT:
+
+        Membuat Register user
